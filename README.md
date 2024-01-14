@@ -1,3 +1,4 @@
+<img src = "https://raw.githubusercontent.com/SafeGiantJacket/SafeGiantJacket/main/bn.jpg" >
 <h1 align="center">Hi 👋, I'm Abhir Nayak</h1>
 <h3 align="center">A passionate student and developer from Pune</h3>
 
