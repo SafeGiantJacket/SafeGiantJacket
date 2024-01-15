@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=safegiantjacket&label=Profile%20views&color=0e75b6&style=flat" alt="safegiantjacket" /> </p>
 
-👨🏻‍💻 About Me
+## 👨🏻‍💻 About Me ##
 👨‍💻 Blockchain Explorer: Fascinated by both backend and frontend intricacies of blockchain.
 
 ☕ Java Coding: Turning ideas into code with Java – my go-to language for crafting solutions.
@@ -16,13 +16,18 @@ Join me on this journey of exploration and creation! 🚀✨
 
 
 - 🌱 I’m currently learning **Competitive Programming**
+- 🔭 I’m currently working on **Solidity and React**
+- 👯 I’m looking to collaborate on **Blockchain Projects or making React Apps**
+- 🤔 I’m looking for help with **Competitive Programming**
 
-- 🔥 Interest
-   Blockcahin , Solidity , React , Java , Chess
+## 🔥 Interest
+  - Blockcahin , Solidity , React , Java , Chess
 
 - 👨‍💻 All of my projects are available at [https://github.com/SafeGiantJacket?tab=repositories](https://github.com/SafeGiantJacket?tab=repositories)
 
 - 📫 How to reach me **abhirnayak7@gmail.com**
+
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
