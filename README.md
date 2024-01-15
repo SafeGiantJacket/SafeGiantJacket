@@ -27,9 +27,6 @@ Join me on this journey of exploration and creation! 🚀✨
 
 - 📫 How to reach me **abhirnayak7@gmail.com**
 
-
-
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
