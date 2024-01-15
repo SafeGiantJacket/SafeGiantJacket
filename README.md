@@ -4,7 +4,21 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=safegiantjacket&label=Profile%20views&color=0e75b6&style=flat" alt="safegiantjacket" /> </p>
 
-- 🌱 I’m currently learning **Blockchain,Competitive Programming , Java**
+👨🏻‍💻 About Me
+👨‍💻 Blockchain Explorer: Fascinated by both backend and frontend intricacies of blockchain.
+
+☕ Java Coding: Turning ideas into code with Java – my go-to language for crafting solutions.
+
+♟️ Chess Enthusiast: Beyond the screen, you'll find me strategizing on the chessboard, honing my analytical skills.
+
+Join me on this journey of exploration and creation! 🚀✨
+
+
+
+- 🌱 I’m currently learning **Competitive Programming**
+
+- 🔥 Interest
+   Blockcahin , Solidity , React , Java , Chess
 
 - 👨‍💻 All of my projects are available at [https://github.com/SafeGiantJacket?tab=repositories](https://github.com/SafeGiantJacket?tab=repositories)
 
