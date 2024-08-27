@@ -9,7 +9,6 @@
 
 ☕ Java Coding: Turning ideas into code with Java – my go-to language for crafting solutions.
 
-♟️ Chess Enthusiast: Beyond the screen, you'll find me strategizing on the chessboard, honing my analytical skills.
 
 Join me on this journey of exploration and creation! 🚀✨
 
