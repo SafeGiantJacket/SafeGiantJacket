@@ -13,14 +13,12 @@
 Join me on this journey of exploration and creation! 🚀✨
 
 
-
 - 🌱 I’m currently learning **Competitive Programming**
 - 🔭 I’m currently working on **Solidity and React**
-- 👯 I’m looking to collaborate on **Blockchain Projects or making React Apps**
-- 🤔 I’m looking for help with **Competitive Programming**
+- 👯 I’m looking to collaborate on **Blockchain Projects or Dapps**
 
 ## 🔥 Interest
-  - Blockcahin , Solidity , React , Java , Chess
+  - Blockcahin , Solidity , React , Java 
 
 - 👨‍💻 All of my projects are available at [https://github.com/SafeGiantJacket?tab=repositories](https://github.com/SafeGiantJacket?tab=repositories)
 
