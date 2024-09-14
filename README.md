@@ -38,8 +38,6 @@ Join me on this journey of exploration and creation! 🚀✨
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SafeGiantJacket&layout=compact&theme=dark" alt="Top Languages" />
 </p>
 
-<p align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=SafeGiantJacket&theme=react-dark&hide_border=true&area=true" alt="GitHub Contribution Graph" />
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
