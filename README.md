@@ -22,7 +22,7 @@ Join me on this journey of exploration and creation! 🚀✨
 ## 🔥 Interests
   - Blockchain, Solidity, React, Java 
 
-- 👨‍� All of my projects are available at [https://github.com/SafeGiantJacket?tab=repositories](https://github.com/SafeGiantJacket?tab=repositories)
+- All of my projects are available at [https://github.com/SafeGiantJacket?tab=repositories](https://github.com/SafeGiantJacket?tab=repositories)
 - 💎 How to reach me **abhirnayak7@gmail.com**
 
 ## 🏆 Achievements:
