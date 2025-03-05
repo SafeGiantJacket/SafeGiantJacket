@@ -38,7 +38,8 @@ Join me on this journey of exploration and creation! 🚀✨
 4. **ICT-based startup idea**: zk-proof based Identity and Credential System  
    🥇 **1st Prize Winner** – Cybergenius 2024-25  
 
-[Certificates](https://drive.google.com/file/d/1TDAjKwsbb0etr-ptn5QZ_Rwth3wKlDbJ/view?usp=sharing)
+## 📜 Certificates
+🔗 [View My Certificates](https://drive.google.com/file/d/1TDAjKwsbb0etr-ptn5QZ_Rwth3wKlDbJ/view?usp=sharing)
 
 ## 📊 GitHub Stats
 <p align="center">
